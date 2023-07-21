@@ -6,8 +6,6 @@ package formsexercise.Exercicio4;
 //         Monte a estrutura de classes, instancie 2 Motoristas e imprima no console { nome, cargo e placaCarro } de cada motorista
 
 
-import br.com.abc.exerciciosforms.classes.Exercicio4.classes.Motorista;
-
 public class Main {
     public static void main(String[] args) {
         Motorista motorista1 = new Motorista("Jorge", "123.456.789.00", "1234.678-9", 45, "Motorista", 3500, "987456321", "ABC-1234");
